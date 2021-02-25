@@ -11,7 +11,8 @@ const user = {
         '35353-3535',
         '12125-3535'
     ],
-    isActive: true
+    isActive: true,
+    
 }
 
 const user2 = {

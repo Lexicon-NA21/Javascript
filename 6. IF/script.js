@@ -44,7 +44,7 @@ if(string === number) {
 
 /*
  .   !=     om det inte är lika med
- .   !==    om det inte ör lika med och inte har samma datatyp 
+ .   !==    om det inte är lika med och inte har samma datatyp 
 */
 
 if(string != number) {

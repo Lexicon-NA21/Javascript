@@ -98,11 +98,11 @@ let numberOfUsers = 0;
 //   console.log('name: ' + name);
 // });
 
-namesArray.forEach((name, i, arr) => {
-  console.log(name);
-  console.log(i);
-  console.log(arr[i + 1]);
-})
+// namesArray.forEach((name, i, arr) => {
+//   console.log(name);
+//   console.log(i);
+//   console.log(arr[i + 1]);
+// })
 
 // usersArray.forEach(user => {
 //   console.log(user.name, user.age);
